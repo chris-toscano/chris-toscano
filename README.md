@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm Chris Toscano
+
+- 💻 I've been coding...
+- 🐢 I'm learning...
 
 <!--
 **chris-toscano/chris-toscano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
